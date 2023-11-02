@@ -17,7 +17,7 @@ Key components of the project may include:
 
 The Titanic Python notebook project serves as a comprehensive introduction to data analysis and machine learning, showcasing skills in data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
 
-# IrisDatset
+# IrisDataset
 The Iris dataset Python notebook project typically involves an exploration and analysis of the famous Iris dataset, which consists of measurements of iris flowers, including attributes such as sepal length, sepal width, petal length, and petal width. The project often aims to showcase various machine learning techniques and algorithms for classification tasks using this dataset.
 
 Key components of the project may include:
