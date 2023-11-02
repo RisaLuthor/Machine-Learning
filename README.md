@@ -3,7 +3,7 @@
 This showcases various projects that demonstrate my expertise in applying machine learning algorithms and techniques to solve real-world problems. It includes examples of supervised and unsupervised learning tasks, as well as projects related to natural language processing, computer vision, and reinforcement learning. Each project highlights my skills in data preprocessing, feature engineering, model selection, and evaluation, along with insightful analysis of results. The code is written in Python and R, and the documentation provides comprehensive explanations of the methodologies and approaches used.
 
 
-#Titanic 
+# Titanic 
 The Titanic Python notebook project typically revolves around exploring and analyzing the famous Titanic dataset, which contains information about passengers aboard the RMS Titanic, including various attributes such as age, sex, ticket class, and survival status. The project often involves the application of machine learning techniques to predict whether a passenger survived the Titanic disaster based on the available features.
 
 Key components of the project may include:
@@ -17,7 +17,7 @@ Key components of the project may include:
 
 The Titanic Python notebook project serves as a comprehensive introduction to data analysis and machine learning, showcasing skills in data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
 
-#IrisDatset
+# IrisDatset
 The Iris dataset Python notebook project typically involves an exploration and analysis of the famous Iris dataset, which consists of measurements of iris flowers, including attributes such as sepal length, sepal width, petal length, and petal width. The project often aims to showcase various machine learning techniques and algorithms for classification tasks using this dataset.
 
 Key components of the project may include:
