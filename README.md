@@ -32,3 +32,6 @@ Key components of the project may include:
 
 The Iris dataset Python notebook project serves as a fundamental introduction to machine learning and classification tasks, demonstrating the application of various algorithms to a well-known and easily accessible dataset.
 
+<br>
+Housing:
+<br><p>The housing Python project serves as a practical application of machine learning techniques in the domain of real estate, providing valuable insights into the factors affecting housing prices and the methodologies used for predictive modeling.</p>
